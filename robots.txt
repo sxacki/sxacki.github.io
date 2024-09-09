@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sxacki.github.io/iLY/sitemap.iLY.gz
